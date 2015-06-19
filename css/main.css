@@ -4,17 +4,19 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 2px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    padding-right: 5px;
+    margin-right: 10px;
+    background-color: #F9F9FF;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #888;
 }
 a:hover {
     text-decoration: underline;
@@ -24,7 +26,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.1em;
     line-height: 1.4em;
     color: #333;
 }

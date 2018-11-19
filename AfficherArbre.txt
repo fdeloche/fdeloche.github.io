@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 def display_as_tree(lst, i=0, indent_root="", indent_others="    "):
     """Display a list as a binary tree.
 
